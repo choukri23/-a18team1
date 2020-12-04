@@ -17,6 +17,7 @@ public class JavaApplication11 {
     public static void main(String[] args) {
         System.out.println("jhkfdsgfkjdsghfkjdshgfgsdf");
         System.out.println("Au revoir");
+        System.out.println("Merci!");
     }
     
 }
